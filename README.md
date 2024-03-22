@@ -20,4 +20,7 @@ Tuần 7 - [Nghiên cứu về Axelar](https://docs.axelar.dev/dev/intro)
 
 Tuần 9 - Xong slide và chạy được Repo uniswap based
 
-Tuần 10 - 14: Chạy được cái cođe [này](https://github.com/casterds/Cross-chainSwap)
+Tuần 10 - 14: Chạy được cái code [này](https://github.com/casterds/Cross-chainSwap)
+
+Ảnh cho vào slide [ở đây](https://github.com/swing-xyz/evm-cosmos-crosschain-swap)
+
