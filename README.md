@@ -16,7 +16,10 @@ Tuần 6 - 30/3:
 - [Link docs cái trên](https://docs.uniswap.org/contracts/v3/guides/flash-integrations/inheritance-constructors)
 
 
-Tuần 7 - Nghiên cứu về [Axelar](https://docs.axelar.dev/dev/intro) và [Polygon ZkEVM Bridge](https://github.com/sarvagnakadiya/zkEVM-bridge)
+Tuần 7 - Nghiên cứu về: 
+- [Axelar](https://docs.axelar.dev/dev/intro)  
+- [Polygon ZkEVM Bridge](https://github.com/sarvagnakadiya/zkEVM-bridge)
+- [Send message from Polygon ZkEVM -> Goerli/Sepolia](https://github.com/miguelmota/polygon-zkevm-messenger-l2-to-l1-example) (mở rộng cái trên)
 
 Tuần 9 - Xong slide và chạy được Repo uniswap based
 
