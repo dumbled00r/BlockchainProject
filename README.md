@@ -12,11 +12,11 @@ Tuần 6 - 30/3:
     - Uniswap V3 Liquidity
     - Uniswap V3 Flash
     - Uniswap V3 Flash Swap Arbitrage
-- [Clone và chạy được cái này](https://github.com/gebob19/uniswap-v3-flashswap)
+- Clone và chạy được [cái này](https://github.com/gebob19/uniswap-v3-flashswap)
 - [Link docs cái trên](https://docs.uniswap.org/contracts/v3/guides/flash-integrations/inheritance-constructors)
 
 
-Tuần 7 - [Nghiên cứu về Axelar](https://docs.axelar.dev/dev/intro)
+Tuần 7 - Nghiên cứu về [Axelar](https://docs.axelar.dev/dev/intro) và [Polygon ZkEVM Bridge](https://github.com/sarvagnakadiya/zkEVM-bridge)
 
 Tuần 9 - Xong slide và chạy được Repo uniswap based
 
